@@ -41,11 +41,11 @@
 
 h1 {
     font-size: 3.8rem;
-   color: yellow;
+   color: rgb(4, 99, 7);
 }
 
 h2{
-    color: black;
+    color: whitesmoke
 }
 
 h3 {
@@ -59,9 +59,9 @@ button {
     color: #fff;
     font-size: 1.2rem;
     padding: 0.5rem 1rem;
-    border: 2px solid #712727;
+    border: none;
     border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(4, 99, 7, 0.5);
     transition: background-color 0.3s ; 
     cursor: pointer; 
 }
@@ -69,8 +69,8 @@ button {
 
 
 button:hover {
-    background-color: #712727;
-    color: #fbf8f8;
+    background-color: navy;
+    color: yellow;
 }
 
 
