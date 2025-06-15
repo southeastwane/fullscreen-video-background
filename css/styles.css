@@ -73,11 +73,17 @@ button:hover {
 
 @media screen and (max-width: 360px) {
     h1 {
-        font-size: 1.5rem;
+        font-size: 2rem;
         ;
     }
     h2 {
-        font-size: 1.2rem;
+        font-size: 1rem;
+        color: whitesmoke
+    }
+
+    h3 {
+        color:navy;
+        font-size: .8rem;
     }
 
     button {
