@@ -143,3 +143,24 @@ img {
   
    
 }
+
+@media screen and (max-width: 720px) {
+    
+     .section1 {
+        display: grid;
+        grid-template-columns: 1fr;
+        color: red;
+    }
+    .section1-title{
+        font-size: 1.6rem;
+    }
+
+    .section1-text {
+        padding: 15px 0;
+        text-align: center;
+        line-height: 1.8;
+    }
+    
+  
+   
+}
